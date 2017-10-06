@@ -1,41 +1,36 @@
 # About Me
 
 ## Before GA:
-I was working at a web agency called BlueModus as a UX Lead.
+I was working at a tech start up in DC called Mapbox as HR/Operations/Space Management. Before that, I interned with Amazon my senior year of college (also working in HR).
 
 ## Outcomes support I need:
-None - I will be providing it (with Becca)
+I will need support reviewing my resume and finding Colorado resources (my contacts are all in DC and SF but I want to measure my opportunities in Denver before moving again to SF).
 
 ## Day 1 Goals:
-1. Make 17 new developers
+1. Understand javascript as it is fundamental to pretty much every dev job.
 
 ## Two Truths and a Lie
 
 ### Nick
-1. I have two cats named Gin and Tonic
-2. My last vacation was to the West Bank
-3. I bike 30 miles to get here each day
+1. I am a black belt in Taekwondo
+2. I did beauty pageants as a teen
+3. I speak french
 
-### Becca
-1. I once ate 8 lobsters in one sitting.
-2. I skipped college graduation and booked a one way flight to Paris.
-3. I donated my eggs and have a child in Europe that I've never met.
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/nickandersonr)
+[Here!](https://www.linkedin.com/in/marissafullford)
 
 ## Meetups I've attended:
-1. Denver Script (6/7)
-2. Denver Script (6/27)
+1. The one a bunch of us went to with Zeb, we disccused storage space. (Late September during Denver Start Up week)
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
-I like the idea of working for startup or small business. I think I could thrive in an agency role. It's important to me that my work have a visible impact on the company I'm working for. I also want to be able to wear metal tshirts to work.
+Start ups are very appealing because you can be given a lot of flexibility in what you're doing and how you do it, the autonomy is really refreshing. However, after working 60+ hours a week at a start up, I am interested in finding a job with a better work/life balance and more opportunities for mentorship (better organizational structure).
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I like frontend and UX work, so something with a combined dev/design role would be perfect. I also like talking to people, and would feel confident leading projects from a manamagent role. 
+I''m a big fan of the front end. I love being creative and making things come to life. I'm also a big people person and thrive in team environments. 
 
 ## Link to my resume: 
-[Here!](NickAnderson_Resume.pdf)
+It's on my linkedin!
 
 ## Link to my portfolio website: 
-[NickAnderson.rocks](http://NickAnderson.rocks)
+I don't have one (yet)!
