@@ -21,7 +21,8 @@ I will need support reviewing my resume and finding Colorado resources (my conta
 [Here!](https://www.linkedin.com/in/marissafullford)
 
 ## Meetups I've attended:
-1. The one a bunch of us went to with Zeb, we disccused storage space. (Late September during Denver Start Up week)
+1. The one a bunch of us went to with Zeb, we disccused storage space. (September)
+2. Denver Scripts (October)
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 Start ups are very appealing because you can be given a lot of flexibility in what you're doing and how you do it, the autonomy is really refreshing. However, after working 60+ hours a week at a start up, I am interested in finding a job with a better work/life balance and more opportunities for mentorship (better organizational structure).
@@ -33,4 +34,4 @@ I''m a big fan of the front end. I love being creative and making things come to
 It's on my linkedin!
 
 ## Link to my portfolio website: 
-I don't have one (yet)!
+marissafullford.co
